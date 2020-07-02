@@ -1,0 +1,9 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.pdb

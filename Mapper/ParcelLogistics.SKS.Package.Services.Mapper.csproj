@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="GeoJSON" Version="2.1.0" />
+    <PackageReference Include="GeoJSON.Net" Version="1.2.15" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="16.7.0-preview-20200519-01" />
+    <PackageReference Include="NetTopologySuite" Version="2.0.0" />
+    <PackageReference Include="NetTopologySuite.Core" Version="1.15.3" />
+    <PackageReference Include="NetTopologySuite.Features" Version="2.1.0" />
+    <PackageReference Include="NetTopologySuite.IO" Version="1.14.0.1" />
+    <PackageReference Include="NetTopologySuite.IO.GeoJSON" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic.Entities\ParcelLogistics.SKS.Package.BusinessLogic.Entities.csproj" />
+    <ProjectReference Include="..\DataAccess.Entities\ParcelLogistics.SKS.Package.DataAccess.Entities.csproj" />
+    <ProjectReference Include="..\src\DTOs\ParcelLogistics.SKS.Package.Services.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

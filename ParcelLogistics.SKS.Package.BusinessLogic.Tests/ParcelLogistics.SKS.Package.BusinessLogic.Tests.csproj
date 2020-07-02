@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeCoverage" Version="16.7.0-preview-20200519-01" />
+    <PackageReference Include="Moq" Version="4.14.1" />
+    <PackageReference Include="NBuilder" Version="6.1.0" />
+    <PackageReference Include="nunit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic.Interfaces\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\BusinessLogic\ParcelLogistics.SKS.Package.BusinessLogic.csproj" />
+    <ProjectReference Include="..\DataAccess.Interfaces\ParcelLogistics.SKS.Package.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\Mapper\ParcelLogistics.SKS.Package.Services.Mapper.csproj" />
+    <ProjectReference Include="..\ParcelLogistics.SKS.Package.DataAccess.Mock\ParcelLogistics.SKS.Package.DataAccess.Mock.csproj" />
+  </ItemGroup>
+
+</Project>

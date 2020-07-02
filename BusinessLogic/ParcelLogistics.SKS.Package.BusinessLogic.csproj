@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <DebugType>Full</DebugType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="16.7.0-preview-20200519-01" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic.Entities\ParcelLogistics.SKS.Package.BusinessLogic.Entities.csproj" />
+    <ProjectReference Include="..\BusinessLogic.Interfaces\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\DataAccess.Entities\ParcelLogistics.SKS.Package.DataAccess.Entities.csproj" />
+    <ProjectReference Include="..\DataAccess.Interfaces\ParcelLogistics.SKS.Package.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\DataAccess.Sql\ParcelLogistics.SKS.Package.DataAccess.Sql.csproj" />
+    <ProjectReference Include="..\Mapper\ParcelLogistics.SKS.Package.Services.Mapper.csproj" />
+    <ProjectReference Include="..\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.csproj" />
+    <ProjectReference Include="..\ParcelLogistics.SKS.Package.ServiceAgents\ParcelLogistics.SKS.Package.ServiceAgents.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net20\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.pdb

@@ -1,0 +1,12 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\bin\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\ParcelLogistics.SKS.Package.ServiceAgents\obj\Debug\netstandard2.0\ParcelLogistics.SKS.Package.ServiceAgents.pdb

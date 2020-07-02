@@ -1,0 +1,17 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.dll.config
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\Mapper\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.Mapper.pdb

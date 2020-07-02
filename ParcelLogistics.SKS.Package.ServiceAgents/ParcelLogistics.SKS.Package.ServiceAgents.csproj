@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Geocoding.Core" Version="4.0.1" />
+    <PackageReference Include="Geocoding.Google" Version="4.0.1" />
+    <PackageReference Include="Microsoft.CodeCoverage" Version="16.7.0-preview-20200519-01" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces\ParcelLogistics.SKS.Package.ServiceAgents.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

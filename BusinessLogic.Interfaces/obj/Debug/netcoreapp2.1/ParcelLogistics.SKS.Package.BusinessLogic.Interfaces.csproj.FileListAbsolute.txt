@@ -1,0 +1,17 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.Services.DTOs.dll.config
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Interfaces.pdb

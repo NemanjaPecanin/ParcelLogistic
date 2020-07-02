@@ -1,0 +1,14 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\DataAccess.Interfaces\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.DataAccess.Interfaces.pdb

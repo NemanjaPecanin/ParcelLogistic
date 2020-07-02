@@ -1,0 +1,51 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Submit Parcel</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                var parcel = $("#parcelData").val();
+                var response = $("#errorData");
+                var button = $("button");
+
+                button.attr("disabled", true); // disable first
+                button.html(`<span class="fa fa-spinner fa-spin"></span> Loading...`); // add spinner to button
+
+                var request = $.ajax({
+                    url: "/api/parcel/",
+                    type: "POST",
+                    data: parcel,
+                    Accept: "application/json",
+                    contentType: "application/json",
+                    dataType: "json"
+                });
+
+                request
+                    .done(function (data) {
+                        response.val(data["trackingId"]);
+                    })
+                    .fail(function (data) {
+                        response.val(data.responseText);
+                    })
+                    .always(function () {
+                        button.attr("disabled", false);
+                        button.html(`submit parcel`);
+                    });
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>enter parcel data...</h1>
+    <!--<input type="text">-->
+    <textarea id="parcelData"></textarea>
+    <button class="btn btn-primary" type="button">submit parcel</button>
+    <br />
+<textarea id="errorData"></textarea>
+    <div id="errorDiv"></div>
+</body>
+</html>

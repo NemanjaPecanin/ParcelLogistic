@@ -1,0 +1,12 @@
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.deps.json
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\bin\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.pdb
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.csprojAssemblyReference.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.AssemblyInfoInputs.cache
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.AssemblyInfo.cs
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.csproj.CopyComplete
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.dll
+C:\Users\fruti\OneDrive\Desktop\MASTER\Parcel Logistics\Parcel_Logistics\BusinessLogic.Entities\obj\Debug\netcoreapp2.1\ParcelLogistics.SKS.Package.BusinessLogic.Entities.pdb
